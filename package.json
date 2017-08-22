@@ -1,0 +1,28 @@
+{
+  "name": "test_ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.5.0",
+    "should": "^11.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stone-jin/test_ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stone-jin/test_ci/issues"
+  },
+  "homepage": "https://github.com/stone-jin/test_ci#readme"
+}
